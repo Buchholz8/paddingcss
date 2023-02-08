@@ -1,6 +1,7 @@
 #text {
     background-color: brown;
     padding: 20px 20px;
+    border: 2px dashed black;
 }
 #title {
     background-color: cyan;
@@ -8,6 +9,9 @@
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 5px;
+    border: 2px dashed lightblue;
+    margin: 30px;
+    
 }
 #itag {
     background-color: greenyellow;
@@ -15,4 +19,5 @@
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 10px;
+    border: 2px dashed black;
 }
